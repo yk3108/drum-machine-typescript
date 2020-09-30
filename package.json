@@ -16,7 +16,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://yk3108.github.io/drum-machine-typescript",
   "scripts": {
     "start": "cross-env PUBLIC_URL=. react-scripts start",
     "build": "react-scripts build",
